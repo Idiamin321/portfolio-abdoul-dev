@@ -570,5 +570,33 @@
       },
       "visible": true
     }
+  ],
+  "a_la_une": [
+    "tvlnah",
+    "automatisation-gestion-de-catalogue-prestashop",
+    "plus-que-sport",
+    "petit-nidoo",
+    "le-sens-du-meuble"
+  ],
+  "filtres": [
+    "PHP",
+    "MySQL",
+    "WordPress",
+    "PrestaShop",
+    "Laravel",
+    "API REST",
+    "Android",
+    "Stripe",
+    "WooCommerce",
+    "iOS",
+    "Automatisation",
+    "Dart",
+    "Elementor Pro",
+    "Expo",
+    "Firebase",
+    "Flutter",
+    "Node.js",
+    "Python",
+    "React Native"
   ]
 }
