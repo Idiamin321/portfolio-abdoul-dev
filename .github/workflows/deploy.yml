@@ -1,0 +1,39 @@
+# Déploie le site sur l'hébergement LWS (FTP) à chaque modification de la branche main.
+# Secrets à créer dans le dépôt (Settings → Secrets and variables → Actions) :
+#   FTP_SERVER    ex. ftp.e-webcode.fr
+#   FTP_USERNAME  identifiant FTP LWS
+#   FTP_PASSWORD  mot de passe FTP LWS
+#   FTP_DIR       dossier du sous-domaine sur le FTP, terminé par / (ex. /portfolio.abdoul.e-webcode.fr/)
+name: Déploiement LWS
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-lws
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Envoi FTP vers LWS
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          server-dir: ${{ secrets.FTP_DIR }}
+          protocol: ftps
+          dry-run: true
+          log-level: verbose
+          exclude: |
+            **/.git*
+            **/.git*/**
+            .github/**
+            README.md
+            .nojekyll
