@@ -1,0 +1,69 @@
+{
+  "nom": "Abdoul dev",
+  "bio": "Développeur Full Stack (Web & Mobile), j'accompagne les entreprises et les entrepreneurs dans la conception de solutions web adaptées à leurs besoins. De la création d'un site vitrine á une application web ou mobile complexe, je développe des projets robustes avec Flutter (Android/iOS), Laravel, PHP core, React.js, Node.js,Typescript, Symfony, WordPress et d'autres technologies modernes.",
+  "photo": "https://abdoul.e-webcode.fr/abdoul.png",
+  "lien_a_propos": "https://abdoul.e-webcode.fr",
+  "titre_realisations": "Quelques travaux",
+  "titre_expertise": "Domaines d'expertise",
+  "expertise": [
+    {
+      "titre": "Langages de programmation",
+      "elements": [
+        "JavaScript",
+        "TypeScript",
+        "PHP",
+        "Python",
+        "Dart",
+        "Java",
+        "C#"
+      ]
+    },
+    {
+      "titre": "Frameworks & bibliothèques",
+      "elements": [
+        "Laravel",
+        "Symfony",
+        "Yii 2.0",
+        "React",
+        "Node.js",
+        "Express.js",
+        "Flutter",
+        "jQuery",
+        "Bootstrap"
+      ]
+    },
+    {
+      "titre": "Web, CMS & e-commerce",
+      "elements": [
+        "WordPress",
+        "PrestaShop",
+        "Shopify",
+        "CMS",
+        "Plugins WordPress",
+        "Modules PrestaShop"
+      ]
+    },
+    {
+      "titre": "Bases de données & API",
+      "elements": [
+        "MySQL",
+        "MongoDB",
+        "API REST"
+      ]
+    },
+    {
+      "titre": "Web & multimédia",
+      "elements": [
+        "HTML",
+        "CSS",
+        "Adobe Premiere Pro",
+        "DaVinci Resolve"
+      ]
+    }
+  ],
+  "contact": {
+    "accroche": "Discutons de votre projet",
+    "email": "abdoul-dev@e-webcode.fr",
+    "github": "https://github.com/Idiamin321"
+  }
+}

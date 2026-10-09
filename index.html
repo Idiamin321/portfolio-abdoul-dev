@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Abdoul dev — Portfolio</title>
+
+
+   <!-- bootstrap css cdn-->
+   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet"
+      integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+
+   <!-- aos -->
+   <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
+   <!-- animatestyle -->
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+
+   <!-- GSAP -->
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/gsap.min.js"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/ScrollTrigger.min.js"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/ScrollToPlugin.min.js"></script>
+
+   <!-- css -->
+   <link rel="stylesheet" href="style.css">
+
+
+</head>
+
+<body>
+
+   <!-- <video autoplay muted loop id="myVideo">
+      <source src="img/bgvideo.mp4" type="video/mp4">
+   </video> -->
+
+
+
+   <!-- homepage -->
+   <div class="background" id="home">
+
+      <!-- navbar -->
+
+      <nav class="site_nav">
+         <div class="container nav_container">
+            <a class="nav_brand" href="#home" aria-label="Abdoul dev — accueil">Abdoul <span>dev</span></a>
+            <input class="nav_toggle" type="checkbox" id="nav-toggle">
+            <label class="nav_menu_button" for="nav-toggle" aria-label="Ouvrir le menu"><span></span><span></span><span></span></label>
+            <div class="navitems">
+               <a class="nav_link" href="#home">Accueil</a>
+               <a class="nav_link" href="#project">Réalisations</a>
+               <a class="nav_link" href="#expertise">Expertise</a>
+               <a class="nav_link nav_contact_link" href="#contact">Contact</a>
+               <a class="nav_link nav_about_link" href="https://abdoul.e-webcode.fr">En savoir plus sur moi</a>
+            </div>
+         </div>
+      </nav>
+
+
+      <!-- introsection -->
+      <section class="intro">
+         <div class="container intro_container">
+            <div class="row intro_boxes">
+               <div class="col-lg-6 col-md-12 intro_box1" data-aos="fade-in-left">
+                  <div class="name_bio">
+                     <p class="name" data-profil="nom">Abdoul dev</p>
+                     <p class="bio" data-profil="bio"></p>
+                  </div>
+               </div>
+               <div class="col-lg-6 col-md-12 intro_box2 animate__animated animate__fadeInRight">
+                  <div class="box2_profile">
+                     <div class="profile_frame">
+                        <img class="profile_photo" src="https://abdoul.e-webcode.fr/abdoul.png" alt="Abdoul dev">
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+
+
+   </div>
+
+
+   <div class="fron_project_to_end">
+      <!-- project -->
+
+      <section class="project" id="project">
+         <div class="project_heading" data-profil="titre_realisations">Quelques travaux</div>
+         <div class="project_box">
+            <div class="container" id="projets">
+               <!-- Les réalisations sont générées depuis data/projets.json (voir content.js) -->
+               <p class="project_loading">Chargement des réalisations…</p>
+            </div>
+
+
+
+
+         </div>
+      </section>
+
+
+
+
+      <!-- why you -->
+      <!-- <section class="project why" id="why">
+   <div class="project_heading why_heading">Why you?</div>
+   <div class="why_box">
+         <div class="items item1" data-aos="flip-up" >
+            Quality
+            <div class="items item2 " data-aos="fade-up-left" data-aos-duration="1500">Cost</div>
+            <div class="items item3 " data-aos="fade-up-right" data-aos-duration="1500">Speed</div>
+         </div>
+      </div>
+   </section> -->
+
+
+
+      <!-- skills -->
+      <section class="skill_section" id="expertise">
+         <div class="skill_heading">
+            <div class="skill_project_heading" data-profil="titre_expertise">Domaines d'expertise</div>
+         </div>
+
+         <div class="expertise_grid" data-profil="expertise"></div>
+      </section>
+
+
+
+
+      <!-- contact -->
+      <section class="main_contact" id="contact">
+         <div class="container">
+
+            <div class="row contact_heading ">
+               <div class="contact_heading_content col-md-6">
+                  <p class="cline2">
+                    Discutons de votre projet
+                  </p>
+                  <div class="contact_heading_content_img">
+                     <lottie-player src="https://assets1.lottiefiles.com/packages/lf20_w6y7r1ap.json"
+                        background="transparent" speed="1" loop autoplay></lottie-player>
+                  </div>
+               </div>
+               <div class="contact_heading_svg col-md-6">
+                  <lottie-player src="https://assets7.lottiefiles.com/packages/lf20_w7x9i6ag.json"
+                     background="transparent" speed="1" loop autoplay></lottie-player>
+               </div>
+            </div>
+         </div>
+
+
+         <div class="circular_box">
+            <div class="contact_actions">
+               <div class="contact_action contact_action_github">
+                  <div class="contact_label contact_label_github">
+                     <span>Cliquez ici pour voir mon compte GitHub</span>
+                     <b aria-hidden="true">↓</b>
+                  </div>
+                  <a class="contact_icons" href="https://github.com/Idiamin321" target="_blank" rel="noopener noreferrer" aria-label="Cliquer ici pour voir mon compte GitHub">
+                     <lottie-player class="github" src="https://assets1.lottiefiles.com/packages/lf20_6HFXXE.json"
+                        background="transparent" speed="2" loop autoplay></lottie-player>
+                  </a>
+               </div>
+
+               <div class="contact_action contact_action_mail">
+                  <a class="contact_icons" href="mailto:abdoul-dev@e-webcode.fr" aria-label="Cliquer ici pour m'envoyer un e-mail">
+                     <lottie-player class="gmail" src="https://assets10.lottiefiles.com/packages/lf20_a0reautd.json"
+                        background="transparent" speed="1" loop autoplay></lottie-player>
+                  </a>
+                  <div class="contact_label contact_label_mail">
+                     <b aria-hidden="true">↑</b>
+                     <span>Cliquez ici pour m'envoyer un e-mail</span>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+
+
+   </div>
+
+
+
+   <!-- bootstrap js cdn -->
+   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
+      crossorigin="anonymous"></script>
+
+   <!-- aos -->
+   <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+
+   <!-- jquerry cdn-->
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+
+   <!-- icon -->
+   <!-- <script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script> -->
+   <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+
+
+
+   <!-- js -->
+   <script src="content.js"></script>
+
+</body>
+
+</html>

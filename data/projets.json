@@ -1,0 +1,574 @@
+{
+  "version": 1,
+  "projets": [
+    {
+      "id": "tvlnah",
+      "titre": "TVLNAH",
+      "image": "img/projets/tvlnah.webp",
+      "description": [
+        "**TVLNAH** est la plateforme officielle de diffusion des rencontres de la Ligue Nord-Américaine de Hockey (LNAH) au Canada.",
+        "J'ai participé au développement et á l'évolution de la plateforme pendant plusieurs mois, avec pour mission principale de garantir une diffusion fiable des matchs en direct. Mon travail a porté sur le développement de nouvelles fonctionnalités, la maintenance de l'application, la résolution de problèmes techniques et l'amélioration des performances afin d'assurer une expérience utilisateur optimale lors des événements en direct."
+      ],
+      "technologies": [
+        "WordPress",
+        "PHP",
+        "JavaScript",
+        "MySQL"
+      ],
+      "lien": {
+        "libelle": "Voir le site",
+        "url": "https://tvlnah.tv/"
+      },
+      "visible": true
+    },
+    {
+      "id": "automatisation-gestion-de-catalogue-prestashop",
+      "titre": "Automatisation & gestion de catalogue PrestaShop",
+      "image": "img/projets/automatisation-gestion-de-catalogue-prestashop.webp",
+      "description": [
+        "**Développement de modules PrestaShop sur mesure** pour automatiser et optimiser la gestion d’un catalogue fournisseur sur plusieurs boutiques.",
+        "J’ai réalisé la préparation et l’import de catalogues CSV volumineux, avec contrôle et normalisation des données avant intégration dans PrestaShop. J’ai également développé des fonctionnalités spécifiques pour faciliter la gestion du catalogue et des stocks sur les différentes boutiques."
+      ],
+      "liste": {
+        "titre": "Réalisations",
+        "elements": [
+          "Module de préparation et d’import des catalogues CSV",
+          "Module de synchronisation automatique des stocks avec le flux fournisseur",
+          "Module de suppression des produits ne disposant pas d’image",
+          "Installation et configuration des modules sur serveur",
+          "Gestion et traitement de catalogues volumineux sur plusieurs boutiques"
+        ]
+      },
+      "technologies": [
+        "PrestaShop 8.2",
+        "PHP",
+        "MySQL",
+        "JavaScript",
+        "CSV"
+      ],
+      "lien": {
+        "libelle": "Envoyer une demande pour voir le projet",
+        "url": "mailto:abdoul-dev@e-webcode.fr?subject=Demande%20d%27acc%C3%A8s%20au%20projet%20Modules%20PrestaShop"
+      },
+      "visible": true
+    },
+    {
+      "id": "plus-que-sport",
+      "titre": "Plus Que Sport",
+      "image": "img/projets/plus-que-sport.webp",
+      "description": [
+        "**Plus Que Sport** est une boutique en ligne dédiée à l'équipement sportif et au fitness à domicile : tapis de course, haltères, kettlebells et accessoires d'entraînement.",
+        "J'ai réalisé la conception et le développement de la boutique sous PrestaShop, de la personnalisation du thème à la mise en ligne. Le projet comprenait l'intégration d'une identité visuelle dynamique, la mise en place du slider d'accueil, l'organisation du catalogue produits et la configuration des modules de paiement et de livraison."
+      ],
+      "technologies": [
+        "PrestaShop",
+        "PHP",
+        "Smarty",
+        "MySQL",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "SEO"
+      ],
+      "lien": {
+        "libelle": "Voir le site",
+        "url": "https://plusquesport.fr/"
+      },
+      "visible": true
+    },
+    {
+      "id": "petit-nidoo",
+      "titre": "Petit Nidoo",
+      "image": "img/projets/petit-nidoo.webp",
+      "description": [
+        "**Petit Nidoo** est une boutique en ligne spécialisée dans les articles pour bébés et tout-petits, ainsi que les jeux et jouets pour enfants.",
+        "J'ai développé la boutique sous PrestaShop en travaillant sur un univers graphique doux et rassurant, adapté aux jeunes parents. Mon intervention a porté sur la personnalisation du thème, la structuration des catégories, l'intégration du contenu et l'optimisation de l'expérience d'achat sur ordinateur comme sur mobile."
+      ],
+      "technologies": [
+        "PrestaShop",
+        "PHP",
+        "Smarty",
+        "MySQL",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "SEO"
+      ],
+      "lien": {
+        "libelle": "Voir le site",
+        "url": "https://petitnidoo.fr/"
+      },
+      "image_a_droite": true,
+      "visible": true
+    },
+    {
+      "id": "le-sens-du-meuble",
+      "titre": "Le Sens du Meuble",
+      "image": "img/projets/le-sens-du-meuble.webp",
+      "description": [
+        "**Le Sens du Meuble** est une boutique en ligne de mobilier et d'aménagement intérieur : tables, chaises, rangements et pièces de décoration pour la maison.",
+        "J'ai réalisé le développement complet de la boutique sous PrestaShop, avec la personnalisation du thème aux couleurs de la marque, la mise en valeur des collections via un slider d'accueil, l'organisation du catalogue et la configuration des fonctionnalités e-commerce."
+      ],
+      "technologies": [
+        "PrestaShop",
+        "PHP",
+        "Smarty",
+        "MySQL",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "SEO"
+      ],
+      "lien": {
+        "libelle": "Voir le site",
+        "url": "https://lesensdumeuble.fr/"
+      },
+      "visible": true
+    },
+    {
+      "id": "comptoir-du-bricolage",
+      "titre": "Comptoir du Bricolage",
+      "image": "img/projets/comptoir-du-bricolage.webp",
+      "description": [
+        "**Comptoir du Bricolage** est une boutique en ligne d'outillage, de quincaillerie et d'équipements pour le bricolage et les travaux.",
+        "J'ai conçu et développé la boutique sous PrestaShop, en assurant la personnalisation du thème, l'intégration de l'identité visuelle, la structuration d'un catalogue technique riche et la configuration des modules de paiement et de livraison afin d'offrir un parcours d'achat simple et efficace."
+      ],
+      "technologies": [
+        "PrestaShop",
+        "PHP",
+        "Smarty",
+        "MySQL",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "SEO"
+      ],
+      "lien": {
+        "libelle": "Voir le site",
+        "url": "https://comptoirdubricolage.fr/"
+      },
+      "image_a_droite": true,
+      "visible": true
+    },
+    {
+      "id": "jardelya",
+      "titre": "Jardelya",
+      "image": "img/projets/jardelya.webp",
+      "description": [
+        "**Jardelya** est une boutique en ligne dédiée à la maison, à la décoration et au jardin, proposant une sélection élégante pour aménager aussi bien l'intérieur que l'extérieur.",
+        "J'ai développé la boutique sous PrestaShop avec un design naturel et raffiné, fidèle à l'univers de la marque. Le projet comprenait la personnalisation du thème, l'intégration des visuels et des collections, l'organisation du catalogue et l'optimisation du site pour le référencement et le mobile."
+      ],
+      "technologies": [
+        "PrestaShop",
+        "PHP",
+        "Smarty",
+        "MySQL",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "SEO"
+      ],
+      "lien": {
+        "libelle": "Voir le site",
+        "url": "https://jardelya.fr/"
+      },
+      "visible": true
+    },
+    {
+      "id": "domaine-carneros",
+      "titre": "Domaine Carneros",
+      "image": "img/projets/domaine-carneros.webp",
+      "description": [
+        "**Domaine Carneros** est un domaine viticole prestigieux situé dans la région de Napa Valley en Californie, réputé pour ses vins pétillants et ses pinot noirs, et proposant boutique en ligne, visites, dégustations et club de vin.",
+        "J'ai participé au développement et à l'évolution du site sous WordPress, en intervenant sur la personnalisation du thème, l'intégration de nouvelles pages et fonctionnalités, la boutique en ligne et la version française du site. Mon travail a également porté sur la maintenance, l'optimisation des performances et le respect de l'identité visuelle haut de gamme de la marque."
+      ],
+      "technologies": [
+        "WordPress",
+        "WooCommerce",
+        "PHP",
+        "JavaScript",
+        "MySQL",
+        "HTML",
+        "CSS",
+        "WPML"
+      ],
+      "lien": {
+        "libelle": "Voir le site",
+        "url": "https://www.domainecarneros.com/"
+      },
+      "image_a_droite": true,
+      "visible": true
+    },
+    {
+      "id": "assets2money-version-web",
+      "titre": "Assets2Money - Version Web",
+      "image": "img/projets/assets2money-version-web.webp",
+      "description": [
+        "**Assets2Money** est une marketplace internationale de luxe permettant d'acheter, vendre, louer et échanger des biens haut de gamme : véhicules de prestige, yachts, jets privés, montres, bijoux, biens immobiliers et bien plus encore.",
+        "J'ai développé la version web de la plateforme sous WordPress, avec la mise en place du système de petites annonces, de la recherche multicritère (localisation, catégorie, mots-clés), des espaces vendeurs et boutiques, de la messagerie entre utilisateurs et de l'API REST personnalisée servant de backend à l'application mobile."
+      ],
+      "technologies": [
+        "WordPress",
+        "PHP",
+        "JavaScript",
+        "jQuery",
+        "MySQL",
+        "API REST",
+        "HTML",
+        "CSS"
+      ],
+      "lien": {
+        "libelle": "Voir le site",
+        "url": "https://assets2money.com/"
+      },
+      "visible": true
+    },
+    {
+      "id": "carline-dyer",
+      "titre": "Carline Dyer",
+      "image": "img/projets/carline-dyer.webp",
+      "description": [
+        "**Carline Dyer** est une marque de cosmétiques bio haut de gamme, proposant notamment la gamme *Skin Detox* et des routines de soins complètes pour le visage.",
+        "J'ai réalisé le développement de la boutique en ligne sous WordPress et WooCommerce, avec un design élégant et épuré fidèle à l'univers luxe de la marque. Le projet comprenait la personnalisation du thème, la mise en place du catalogue et des routines de soins, la gestion multilingue (FR/EN), la configuration des paiements et l'optimisation SEO et mobile."
+      ],
+      "technologies": [
+        "WordPress",
+        "WooCommerce",
+        "Elementor Pro",
+        "PHP",
+        "JavaScript",
+        "WPML",
+        "Stripe",
+        "SEO"
+      ],
+      "lien": {
+        "libelle": "Voir le site",
+        "url": "https://www.carlinedyer.com/"
+      },
+      "image_a_droite": true,
+      "visible": true
+    },
+    {
+      "id": "solina",
+      "titre": "Solina",
+      "image": "img/projets/solina.webp",
+      "description": [
+        "**Solina** est un groupe agroalimentaire européen spécialisé dans la conception de solutions culinaires et d'ingrédients pour l'industrie alimentaire, la restauration et la distribution.",
+        "J'ai participé au développement et à la maintenance du site institutionnel multilingue sous WordPress, en intervenant sur l'intégration de pages et de contenus, la personnalisation du thème, la gestion des traductions et l'optimisation des performances afin d'offrir une vitrine claire et efficace à l'échelle internationale."
+      ],
+      "technologies": [
+        "WordPress",
+        "PHP",
+        "ACF",
+        "JavaScript",
+        "WPML",
+        "MySQL",
+        "HTML",
+        "CSS",
+        "SEO"
+      ],
+      "lien": {
+        "libelle": "Voir le site",
+        "url": "https://www.solina.com/fr"
+      },
+      "visible": true
+    },
+    {
+      "id": "correction-colorimetrique-retouche-video",
+      "titre": "Correction Colorimétrique & Retouche Vidéo",
+      "image": "img/projets/correction-colorimetrique-retouche-video.webp",
+      "description": [
+        "**Correction Colorimétrique & Retouche Vidéo - Cia2ta** est un projet de post-production réalisé pour la societe canadienne Cia2ta en vue d'améliorer la qualité visuelle de leur vidéo de casting tout en conservant un rendu naturel et professionnel.",
+        "Mon rôle principal a été d'intervenir sur la **correction colorimétrique** et le **nettoyage naturel de l'image**, notamment avec la suppression d'imperfections, le nettoyage de détails indésirables au niveau du cou et l'amélioration générale du rendu visuel."
+      ],
+      "technologies": [
+        "DaVinci Resolve",
+        "Étalonnage colorimétrique",
+        "Montage vidéo",
+        "Retouche vidéo",
+        "Design sonore"
+      ],
+      "lien": {
+        "libelle": "Voir la vidéo",
+        "url": "https://youtu.be/f7xALDGLkh8?feature=shared"
+      },
+      "visible": true
+    },
+    {
+      "id": "application-mobile-assets2money",
+      "titre": "Application Mobile - Assets2Money",
+      "image": "img/projets/application-mobile-assets2money.webp",
+      "description": [
+        "**Assets2Money** est une application mobile marketplace de luxe, dédiée à l'achat et la vente d'actifs et de biens de valeur (véhicules de collection, montres, bijoux, biens immobiliers et autres articles haut de gamme). L'application permet aux utilisateurs de publier, parcourir et négocier des annonces au sein d'une marketplace mondiale dédiée au luxe.",
+        "J'ai assuré le développement complet de l'application avec React Native (Expo), connectée à un backend WordPress via une API REST personnalisée, incluant l'authentification des utilisateurs, la gestion des annonces, la messagerie intégrée et la publication d'annonces avec photos. L'objectif était d'offrir une expérience d'achat et de vente fluide, sécurisée et entièrement en français."
+      ],
+      "technologies": [
+        "React Native",
+        "Expo",
+        "JavaScript",
+        "API REST",
+        "Android",
+        "iOS"
+      ],
+      "lien": {
+        "libelle": "Voir l'application mobile",
+        "url": "#"
+      },
+      "visible": true
+    },
+    {
+      "id": "application-mobile-khaymati-market",
+      "titre": "Application Mobile - Khaymati Market",
+      "image": "img/projets/application-mobile-khaymati-market.webp",
+      "description": [
+        "**Khaymati Market** est une application mobile Android et iOS, marketplace dédiée á la vente de produits authentiques du Maroc. L'application permet aux utilisateurs d'accéder á une large sélection de produits frais et artisanaux, notamment des fruits et légumes, des épices, des huiles naturelles, des cosmétiques bio et de nombreux autres produits issus du savoir-faire marocain.",
+        "J'ai assuré le développement complet de l'application avec Flutter, en créant une solution multiplateforme compatible Android et iOS à partir d'une base de code unique. L'objectif était d'offrir une expérience d'achat fluide, rapide et sécurisée."
+      ],
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Firebase",
+        "Android",
+        "iOS",
+        "API REST",
+        "Google Play Console"
+      ],
+      "lien": {
+        "libelle": "Voir l'application mobile",
+        "url": "https://play.google.com/store/apps/details?id=com.e_webcode.khaymati"
+      },
+      "visible": true
+    },
+    {
+      "id": "gabman",
+      "titre": "Gabman",
+      "image": "img/projets/gabman.webp",
+      "description": [
+        "**Gabman** est une société francaise spécialisée dans la production audiovisuelle.",
+        "J'ai assuré le développement, la maintenance et l'évolution du site web. J'ai également conçu un back-office entièrement personnalisé sous Laravel, permettant aux équipes de gérer leurs contenus de manière autonome, sans intervention technique."
+      ],
+      "technologies": [
+        "Laravel",
+        "PHP",
+        "JavaScript",
+        "MySQL"
+      ],
+      "lien": {
+        "libelle": "Voir le site",
+        "url": "https://www.gabman.fr/"
+      },
+      "visible": true
+    },
+    {
+      "id": "marcella-tv",
+      "titre": "Marcella.tv",
+      "image": "img/projets/marcella-tv.webp",
+      "description": [
+        "**Marcella.tv** est la plateforme officielle de la voyante Marcella.",
+        "J'ai conçu et développé l'ensemble du site web ainsi qu'un back-office d'administration sur mesure sous Laravel. Le projet intègre notamment un système de réservation, la gestion des disponibilités, les paiements en ligne et un espace d'administration permettant une gestion autonome de l'activité."
+      ],
+      "technologies": [
+        "Laravel",
+        "PHP",
+        "JavaScript",
+        "PayPal",
+        "MySQL"
+      ],
+      "lien": {
+        "libelle": "Voir le site",
+        "url": "https://www.marcella.tv/"
+      },
+      "image_a_droite": true,
+      "visible": true
+    },
+    {
+      "id": "automatisation-rdv-permis",
+      "titre": "Automatisation RDV Permis",
+      "image": "img/projets/automatisation-rdv-permis.webp",
+      "description": [
+        "**Automatisation RDV Permis** est un script Python développé pour automatiser la recherche de créneaux de rendez-vous sur le site officiel français de prise de rendez-vous pour le permis de conduire.",
+        "Le script renseigne automatiquement les informations nécessaires sur le site, puis effectue une recherche continue de créneaux à intervalles réguliers de 3 minutes afin d'éviter une recherche manuelle répétitive et de détecter rapidement les disponibilités."
+      ],
+      "fonctionnalites": [
+        "Remplissage automatique",
+        "Recherche continue",
+        "Vérification des disponibilités",
+        "Automatisation du processus",
+        "Surveillance des créneaux"
+      ],
+      "technologies": [
+        "Python",
+        "Playwright",
+        "Automatisation Web"
+      ],
+      "lien": {
+        "libelle": "Envoyer une demande pour voir le projet",
+        "url": "mailto:abdoul-dev@e-webcode.fr?subject=Demande%20d%27acc%C3%A8s%20au%20projet%20Automatisation%20RDV%20Permis"
+      },
+      "visible": true
+    },
+    {
+      "id": "senetunes",
+      "titre": "Senetunes",
+      "image": "img/projets/senetunes.webp",
+      "description": [
+        "**Senetunes** est une plateforme e-commerce sénégalaise dédiée á la commercialisation de productions musicales d'artistes locaux.",
+        "J'ai contribué au développement et á l'évolution de la plateforme en mettant en place plusieurs fonctionnalités destinées á améliorer la vente de contenus numériques ainsi que l'expérience des utilisateurs."
+      ],
+      "technologies": [
+        "Prestashop",
+        "MySQL"
+      ],
+      "lien": {
+        "libelle": "Voir le site",
+        "url": "https://www.senetunes.com/"
+      },
+      "visible": true
+    },
+    {
+      "id": "voyages-vagabondages",
+      "titre": "Voyages & Vagabondages",
+      "image": "img/projets/voyages-vagabondages.webp",
+      "description": [
+        "**Voyages & Vagabondages** est un blog de voyage développé sous WordPress.",
+        "J'ai participé á l'évolution du site en assurant l'intégration de plus de 500 articles, en veillant au respect de la mise en page, de l'optimisation SEO, des médias et de la cohérence éditoriale. Cette mission a nécessité rigueur, organisation et une parfaite maîtrise de l'environnement WordPress."
+      ],
+      "technologies": [
+        "WordPress",
+        "Gutenberg",
+        "SEO",
+        "HTML",
+        "CSS"
+      ],
+      "lien": {
+        "libelle": "Voir le site",
+        "url": "https://voyagesetvagabondages.com/"
+      },
+      "visible": true
+    },
+    {
+      "id": "world-luxury-house-sitting",
+      "titre": "World Luxury House Sitting",
+      "image": "img/projets/world-luxury-house-sitting.webp",
+      "description": [
+        "**World Luxury House Sitting** est une plateforme américaine spécialisée dans la mise en relation entre propriétaires et house sitters.",
+        "J'ai réalisé le développement complet du site sous WordPress en anglais, depuis sa conception jusqu'á sa mise en ligne. Le projet comprenait la personnalisation du thème, l'intégration des fonctionnalités demandées par le client et l'adaptation du site aux exigences techniques et ergonomiques."
+      ],
+      "technologies": [
+        "WordPress",
+        "PHP Elementor Pro",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "lien": {
+        "libelle": "Voir le site",
+        "url": "https://worldluxuryhousesitting.com/"
+      },
+      "visible": true
+    },
+    {
+      "id": "musee-reynaud",
+      "titre": "Musée Reynaud",
+      "image": "img/projets/musee-reynaud.webp",
+      "description": [
+        "**Musée Reynaud** est un musée virtuel présentant la collection familiale de la famille Reynaud en France.",
+        "J'ai participé au développement de la plateforme avec Node.js et TypeScript, en intervenant sur la création de nouvelles fonctionnalités, la maintenance corrective et l'amélioration continue de l'application afin d'assurer sa stabilité et son évolutivité."
+      ],
+      "technologies": [
+        "Node.js",
+        "TypeScript",
+        "JavaScript"
+      ],
+      "lien": {
+        "libelle": "Voir le site",
+        "url": "https://musee.gr/"
+      },
+      "visible": true
+    },
+    {
+      "id": "cia2ta",
+      "titre": "CIA2TA",
+      "image": "img/projets/cia2ta.webp",
+      "description": [
+        "**CIA2TA** est une plateforme digitale regroupant une boutique en ligne, une académie de formation et un système de webinaires.",
+        "Le projet a été conçu avec Systeme.io. J'ai participé á la conception et á la mise en place de l'ensemble de l'écosystème numérique, incluant les tunnels de vente, les formations en ligne, les espaces membres, les webinaires et les parcours utilisateurs afin d'offrir une plateforme complète et performante."
+      ],
+      "technologies": [
+        "Systeme.io",
+        "Automatisation",
+        "Tunnel de vente",
+        "E-learning"
+      ],
+      "lien": {
+        "libelle": "Voir le site",
+        "url": "https://www.cia2ta.com/"
+      },
+      "visible": true
+    },
+    {
+      "id": "xinfo-design",
+      "titre": "Xinfo-Design",
+      "image": "img/projets/xinfo-design.webp",
+      "description": [
+        "**Xinfo** est une agence digitale canadienne spécialisée dans le développement de solutions web.",
+        "J'ai collaboré avec leurs équipes sur plusieurs projets clients, principalement autour de WordPress. Mon intervention a porté sur le développement, la personnalisation de thèmes et de fonctionnalités, ainsi que la maintenance technique afin de répondre aux besoins spécifiques de leurs clients."
+      ],
+      "technologies": [
+        "WordPress",
+        "PHP",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "lien": {
+        "libelle": "Voir le site",
+        "url": "https://www.xinfo.ca/"
+      },
+      "image_a_droite": true,
+      "visible": true
+    },
+    {
+      "id": "mediaclik",
+      "titre": "Mediaclik",
+      "image": "img/projets/mediaclik.webp",
+      "description": [
+        "**Mediaclik** est une entreprise canadienne spécialisée dans la production audiovisuelle et les solutions numériques.",
+        "J'ai eu l'opportunité de collaborer avec cette société sur plusieurs projets clients, en intervenant sur le développement de fonctionnalités, la maintenance applicative et l'intégration de solutions web adaptées aux besoins de leurs clients."
+      ],
+      "technologies": [
+        "Laravel",
+        "PHP",
+        "JavaScript",
+        "WordPress"
+      ],
+      "lien": {
+        "libelle": "Voir le site",
+        "url": "https://mediaklic.com/"
+      },
+      "image_a_droite": true,
+      "visible": true
+    },
+    {
+      "id": "karibs-agency",
+      "titre": "Karibs Agency",
+      "image": "img/projets/karibs-agency.webp",
+      "description": [
+        "**Karibs Agency** est une agence de tourisme basée en Martinique, spécialisée dans les séjours et activités dans les territoires français d'outre-mer.",
+        "J'ai développé le système de réservation du site et réalisé son interconnexion avec Beds24, permettant la synchronisation des disponibilités et des réservations. J'ai également participé á l'intégration de Stripe afin de sécuriser les paiements en ligne et d'offrir une expérience de réservation fluide."
+      ],
+      "technologies": [
+        "Laravel",
+        "JavaScript",
+        "Beds24 API",
+        "Stripe",
+        "PHP"
+      ],
+      "lien": {
+        "libelle": "Voir le site",
+        "url": "https://karibsagency.com/"
+      },
+      "visible": true
+    }
+  ]
+}
