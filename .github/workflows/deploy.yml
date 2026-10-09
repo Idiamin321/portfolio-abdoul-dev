@@ -29,8 +29,6 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           server-dir: ${{ secrets.FTP_DIR }}
           protocol: ftps
-          dry-run: true
-          log-level: verbose
           exclude: |
             **/.git*
             **/.git*/**
