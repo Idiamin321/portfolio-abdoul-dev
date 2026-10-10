@@ -22,6 +22,149 @@
       "visible": true
     },
     {
+      "id": "application-mobile-assets2money",
+      "titre": "Application Mobile - Assets2Money",
+      "image": "img/projets/application-mobile-assets2money.webp",
+      "description": [
+        "**Assets2Money** est une application mobile marketplace de luxe, dédiée à l'achat et la vente d'actifs et de biens de valeur (véhicules de collection, montres, bijoux, biens immobiliers et autres articles haut de gamme). L'application permet aux utilisateurs de publier, parcourir et négocier des annonces au sein d'une marketplace mondiale dédiée au luxe.",
+        "J'ai assuré le développement complet de l'application avec React Native (Expo), connectée à un backend WordPress via une API REST personnalisée, incluant l'authentification des utilisateurs, la gestion des annonces, la messagerie intégrée et la publication d'annonces avec photos. L'objectif était d'offrir une expérience d'achat et de vente fluide, sécurisée et entièrement en français."
+      ],
+      "technologies": [
+        "React Native",
+        "Expo",
+        "JavaScript",
+        "API REST",
+        "Android",
+        "iOS"
+      ],
+      "lien": {
+        "libelle": "Voir l'application mobile",
+        "url": "#"
+      },
+      "visible": true
+    },
+    {
+      "id": "application-mobile-khaymati-market",
+      "titre": "Application Mobile - Khaymati Market",
+      "image": "img/projets/application-mobile-khaymati-market.webp",
+      "description": [
+        "**Khaymati Market** est une application mobile Android et iOS, marketplace dédiée á la vente de produits authentiques du Maroc. L'application permet aux utilisateurs d'accéder á une large sélection de produits frais et artisanaux, notamment des fruits et légumes, des épices, des huiles naturelles, des cosmétiques bio et de nombreux autres produits issus du savoir-faire marocain.",
+        "J'ai assuré le développement complet de l'application avec Flutter, en créant une solution multiplateforme compatible Android et iOS à partir d'une base de code unique. L'objectif était d'offrir une expérience d'achat fluide, rapide et sécurisée."
+      ],
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Firebase",
+        "Android",
+        "iOS",
+        "API REST",
+        "Google Play Console"
+      ],
+      "lien": {
+        "libelle": "Voir l'application mobile",
+        "url": "https://play.google.com/store/apps/details?id=com.e_webcode.khaymati"
+      },
+      "visible": true
+    },
+    {
+      "id": "plus-que-sport",
+      "titre": "Plus Que Sport",
+      "image": "img/projets/plus-que-sport.webp",
+      "description": [
+        "**Plus Que Sport** est une boutique en ligne dédiée à l'équipement sportif et au fitness à domicile : tapis de course, haltères, kettlebells et accessoires d'entraînement.",
+        "J'ai réalisé la conception et le développement de la boutique sous PrestaShop, de la personnalisation du thème à la mise en ligne. Le projet comprenait l'intégration d'une identité visuelle dynamique, la mise en place du slider d'accueil, l'organisation du catalogue produits et la configuration des modules de paiement et de livraison."
+      ],
+      "technologies": [
+        "PrestaShop",
+        "PHP",
+        "Smarty",
+        "MySQL",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "SEO"
+      ],
+      "lien": {
+        "libelle": "Voir le site",
+        "url": "https://plusquesport.fr/"
+      },
+      "visible": true
+    },
+    {
+      "id": "domaine-carneros",
+      "titre": "Domaine Carneros",
+      "image": "img/projets/domaine-carneros.webp",
+      "description": [
+        "**Domaine Carneros** est un domaine viticole prestigieux situé dans la région de Napa Valley en Californie, réputé pour ses vins pétillants et ses pinot noirs, et proposant boutique en ligne, visites, dégustations et club de vin.",
+        "J'ai participé au développement et à l'évolution du site sous WordPress, en intervenant sur la personnalisation du thème, l'intégration de nouvelles pages et fonctionnalités, la boutique en ligne et la version française du site. Mon travail a également porté sur la maintenance, l'optimisation des performances et le respect de l'identité visuelle haut de gamme de la marque."
+      ],
+      "technologies": [
+        "WordPress",
+        "WooCommerce",
+        "PHP",
+        "JavaScript",
+        "MySQL",
+        "HTML",
+        "CSS",
+        "WPML"
+      ],
+      "lien": {
+        "libelle": "Voir le site",
+        "url": "https://www.domainecarneros.com/"
+      },
+      "image_a_droite": true,
+      "visible": true
+    },
+    {
+      "id": "jardelya",
+      "titre": "Jardelya",
+      "image": "img/projets/jardelya.webp",
+      "description": [
+        "**Jardelya** est une boutique en ligne dédiée à la maison, à la décoration et au jardin, proposant une sélection élégante pour aménager aussi bien l'intérieur que l'extérieur.",
+        "J'ai développé la boutique sous PrestaShop avec un design naturel et raffiné, fidèle à l'univers de la marque. Le projet comprenait la personnalisation du thème, l'intégration des visuels et des collections, l'organisation du catalogue et l'optimisation du site pour le référencement et le mobile."
+      ],
+      "technologies": [
+        "PrestaShop",
+        "PHP",
+        "Smarty",
+        "MySQL",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "SEO"
+      ],
+      "lien": {
+        "libelle": "Voir le site",
+        "url": "https://jardelya.fr/"
+      },
+      "visible": true
+    },
+    {
+      "id": "carline-dyer",
+      "titre": "Carline Dyer",
+      "image": "img/projets/carline-dyer.webp",
+      "description": [
+        "**Carline Dyer** est une marque de cosmétiques bio haut de gamme, proposant notamment la gamme *Skin Detox* et des routines de soins complètes pour le visage.",
+        "J'ai réalisé le développement de la boutique en ligne sous WordPress et WooCommerce, avec un design élégant et épuré fidèle à l'univers luxe de la marque. Le projet comprenait la personnalisation du thème, la mise en place du catalogue et des routines de soins, la gestion multilingue (FR/EN), la configuration des paiements et l'optimisation SEO et mobile."
+      ],
+      "technologies": [
+        "WordPress",
+        "WooCommerce",
+        "Elementor Pro",
+        "PHP",
+        "JavaScript",
+        "WPML",
+        "Stripe",
+        "SEO"
+      ],
+      "lien": {
+        "libelle": "Voir le site",
+        "url": "https://www.carlinedyer.com/"
+      },
+      "image_a_droite": true,
+      "visible": true
+    },
+    {
       "id": "automatisation-gestion-de-catalogue-prestashop",
       "titre": "Automatisation & gestion de catalogue PrestaShop",
       "image": "img/projets/automatisation-gestion-de-catalogue-prestashop.webp",
@@ -49,30 +192,6 @@
       "lien": {
         "libelle": "Envoyer une demande pour voir le projet",
         "url": "mailto:abdoul-dev@e-webcode.fr?subject=Demande%20d%27acc%C3%A8s%20au%20projet%20Modules%20PrestaShop"
-      },
-      "visible": true
-    },
-    {
-      "id": "plus-que-sport",
-      "titre": "Plus Que Sport",
-      "image": "img/projets/plus-que-sport.webp",
-      "description": [
-        "**Plus Que Sport** est une boutique en ligne dédiée à l'équipement sportif et au fitness à domicile : tapis de course, haltères, kettlebells et accessoires d'entraînement.",
-        "J'ai réalisé la conception et le développement de la boutique sous PrestaShop, de la personnalisation du thème à la mise en ligne. Le projet comprenait l'intégration d'une identité visuelle dynamique, la mise en place du slider d'accueil, l'organisation du catalogue produits et la configuration des modules de paiement et de livraison."
-      ],
-      "technologies": [
-        "PrestaShop",
-        "PHP",
-        "Smarty",
-        "MySQL",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "SEO"
-      ],
-      "lien": {
-        "libelle": "Voir le site",
-        "url": "https://plusquesport.fr/"
       },
       "visible": true
     },
@@ -151,55 +270,6 @@
       "visible": true
     },
     {
-      "id": "jardelya",
-      "titre": "Jardelya",
-      "image": "img/projets/jardelya.webp",
-      "description": [
-        "**Jardelya** est une boutique en ligne dédiée à la maison, à la décoration et au jardin, proposant une sélection élégante pour aménager aussi bien l'intérieur que l'extérieur.",
-        "J'ai développé la boutique sous PrestaShop avec un design naturel et raffiné, fidèle à l'univers de la marque. Le projet comprenait la personnalisation du thème, l'intégration des visuels et des collections, l'organisation du catalogue et l'optimisation du site pour le référencement et le mobile."
-      ],
-      "technologies": [
-        "PrestaShop",
-        "PHP",
-        "Smarty",
-        "MySQL",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "SEO"
-      ],
-      "lien": {
-        "libelle": "Voir le site",
-        "url": "https://jardelya.fr/"
-      },
-      "visible": true
-    },
-    {
-      "id": "domaine-carneros",
-      "titre": "Domaine Carneros",
-      "image": "img/projets/domaine-carneros.webp",
-      "description": [
-        "**Domaine Carneros** est un domaine viticole prestigieux situé dans la région de Napa Valley en Californie, réputé pour ses vins pétillants et ses pinot noirs, et proposant boutique en ligne, visites, dégustations et club de vin.",
-        "J'ai participé au développement et à l'évolution du site sous WordPress, en intervenant sur la personnalisation du thème, l'intégration de nouvelles pages et fonctionnalités, la boutique en ligne et la version française du site. Mon travail a également porté sur la maintenance, l'optimisation des performances et le respect de l'identité visuelle haut de gamme de la marque."
-      ],
-      "technologies": [
-        "WordPress",
-        "WooCommerce",
-        "PHP",
-        "JavaScript",
-        "MySQL",
-        "HTML",
-        "CSS",
-        "WPML"
-      ],
-      "lien": {
-        "libelle": "Voir le site",
-        "url": "https://www.domainecarneros.com/"
-      },
-      "image_a_droite": true,
-      "visible": true
-    },
-    {
       "id": "assets2money-version-web",
       "titre": "Assets2Money - Version Web",
       "image": "img/projets/assets2money-version-web.webp",
@@ -221,31 +291,6 @@
         "libelle": "Voir le site",
         "url": "https://assets2money.com/"
       },
-      "visible": true
-    },
-    {
-      "id": "carline-dyer",
-      "titre": "Carline Dyer",
-      "image": "img/projets/carline-dyer.webp",
-      "description": [
-        "**Carline Dyer** est une marque de cosmétiques bio haut de gamme, proposant notamment la gamme *Skin Detox* et des routines de soins complètes pour le visage.",
-        "J'ai réalisé le développement de la boutique en ligne sous WordPress et WooCommerce, avec un design élégant et épuré fidèle à l'univers luxe de la marque. Le projet comprenait la personnalisation du thème, la mise en place du catalogue et des routines de soins, la gestion multilingue (FR/EN), la configuration des paiements et l'optimisation SEO et mobile."
-      ],
-      "technologies": [
-        "WordPress",
-        "WooCommerce",
-        "Elementor Pro",
-        "PHP",
-        "JavaScript",
-        "WPML",
-        "Stripe",
-        "SEO"
-      ],
-      "lien": {
-        "libelle": "Voir le site",
-        "url": "https://www.carlinedyer.com/"
-      },
-      "image_a_droite": true,
       "visible": true
     },
     {
@@ -291,51 +336,6 @@
       "lien": {
         "libelle": "Voir la vidéo",
         "url": "https://youtu.be/f7xALDGLkh8?feature=shared"
-      },
-      "visible": true
-    },
-    {
-      "id": "application-mobile-assets2money",
-      "titre": "Application Mobile - Assets2Money",
-      "image": "img/projets/application-mobile-assets2money.webp",
-      "description": [
-        "**Assets2Money** est une application mobile marketplace de luxe, dédiée à l'achat et la vente d'actifs et de biens de valeur (véhicules de collection, montres, bijoux, biens immobiliers et autres articles haut de gamme). L'application permet aux utilisateurs de publier, parcourir et négocier des annonces au sein d'une marketplace mondiale dédiée au luxe.",
-        "J'ai assuré le développement complet de l'application avec React Native (Expo), connectée à un backend WordPress via une API REST personnalisée, incluant l'authentification des utilisateurs, la gestion des annonces, la messagerie intégrée et la publication d'annonces avec photos. L'objectif était d'offrir une expérience d'achat et de vente fluide, sécurisée et entièrement en français."
-      ],
-      "technologies": [
-        "React Native",
-        "Expo",
-        "JavaScript",
-        "API REST",
-        "Android",
-        "iOS"
-      ],
-      "lien": {
-        "libelle": "Voir l'application mobile",
-        "url": "#"
-      },
-      "visible": true
-    },
-    {
-      "id": "application-mobile-khaymati-market",
-      "titre": "Application Mobile - Khaymati Market",
-      "image": "img/projets/application-mobile-khaymati-market.webp",
-      "description": [
-        "**Khaymati Market** est une application mobile Android et iOS, marketplace dédiée á la vente de produits authentiques du Maroc. L'application permet aux utilisateurs d'accéder á une large sélection de produits frais et artisanaux, notamment des fruits et légumes, des épices, des huiles naturelles, des cosmétiques bio et de nombreux autres produits issus du savoir-faire marocain.",
-        "J'ai assuré le développement complet de l'application avec Flutter, en créant une solution multiplateforme compatible Android et iOS à partir d'une base de code unique. L'objectif était d'offrir une expérience d'achat fluide, rapide et sécurisée."
-      ],
-      "technologies": [
-        "Flutter",
-        "Dart",
-        "Firebase",
-        "Android",
-        "iOS",
-        "API REST",
-        "Google Play Console"
-      ],
-      "lien": {
-        "libelle": "Voir l'application mobile",
-        "url": "https://play.google.com/store/apps/details?id=com.e_webcode.khaymati"
       },
       "visible": true
     },
