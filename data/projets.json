@@ -2,6 +2,24 @@
   "version": 1,
   "projets": [
     {
+      "id": "application-mobile-portfolio-abdoul-dev",
+      "titre": "Application Mobile – Portfolio Abdoul dev",
+      "image": "img/projets/application-mobile-portfolio-abdoul-dev.webp",
+      "description": [
+        "**Abdoul dev** est une application mobile dédiée à la présentation de mon profil de développeur Full Stack Web & Mobile, de mes compétences techniques et de mes réalisations. Elle permet de découvrir mes projets web et mobiles, de consulter les technologies utilisées et d’en apprendre davantage sur mon parcours professionnel.",
+        "J’ai développé cette application pour rendre mon portfolio accessible directement depuis un smartphone, avec une interface adaptée à la navigation mobile. Elle permet de parcourir mes réalisations, de découvrir mes domaines d’expertise et d’accéder à mes coordonnées ainsi qu’à mes différents liens professionnels.",
+        "L’objectif est de proposer une présentation interactive et accessible de mon travail, afin de permettre aux recruteurs, aux entreprises et aux clients potentiels de découvrir facilement mon expérience et mes compétences."
+      ],
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Firebase",
+        "Firestore",
+        "API REST"
+      ],
+      "visible": true
+    },
+    {
       "id": "application-mobile-zuvia",
       "titre": "Application Mobile – Zuvia",
       "image": "img/projets/application-mobile-zuvia.webp",
