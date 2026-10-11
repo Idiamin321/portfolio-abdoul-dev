@@ -103,7 +103,9 @@
         "Dart",
         "Firebase",
         "Firestore",
-        "API REST"
+        "API REST",
+        "Android",
+        "iOS"
       ],
       "visible": true
     },
