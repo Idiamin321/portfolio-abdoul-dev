@@ -2,6 +2,24 @@
   "version": 1,
   "projets": [
     {
+      "id": "application-mobile-abdoul-admin",
+      "titre": "Application Mobile – Abdoul Admin",
+      "image": "img/projets/application-mobile-abdoul-admin.webp",
+      "description": [
+        "**Abdoul Admin** est une application mobile d’administration que j’ai développée pour gérer mon portfolio web et mon portfolio mobile depuis une interface centralisée. Elle me permet d’administrer mes réalisations et de mettre à jour les contenus présentés sur mes différentes plateformes.",
+        "J’ai développé cette application afin de simplifier la gestion de mon portfolio au quotidien. Elle me permet notamment d’ajouter et de modifier mes projets, d’actualiser leurs descriptions, de gérer les images associées et de mettre à jour les informations affichées sur mes versions web et mobile.",
+        "L’objectif est de disposer d’un outil d’administration mobile pratique et adapté à mes besoins, me permettant de faire évoluer mes portfolios sans devoir intervenir directement dans le code du site web ou de l’application mobile."
+      ],
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Firebase",
+        "Firestore",
+        "API REST"
+      ],
+      "visible": true
+    },
+    {
       "id": "application-mobile-portfolio-abdoul-dev",
       "titre": "Application Mobile – Portfolio Abdoul dev",
       "image": "img/projets/application-mobile-portfolio-abdoul-dev.webp",
