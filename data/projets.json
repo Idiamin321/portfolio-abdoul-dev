@@ -2,59 +2,6 @@
   "version": 1,
   "projets": [
     {
-      "id": "application-mobile-abdoul-admin",
-      "titre": "Application Mobile – Abdoul Admin",
-      "image": "img/projets/application-mobile-abdoul-admin.webp",
-      "description": [
-        "**Abdoul Admin** est une application mobile d’administration que j’ai développée pour gérer mon portfolio web et mon portfolio mobile depuis une interface centralisée. Elle me permet d’administrer mes réalisations et de mettre à jour les contenus présentés sur mes différentes plateformes.",
-        "J’ai développé cette application afin de simplifier la gestion de mon portfolio au quotidien. Elle me permet notamment d’ajouter et de modifier mes projets, d’actualiser leurs descriptions, de gérer les images associées et de mettre à jour les informations affichées sur mes versions web et mobile.",
-        "L’objectif est de disposer d’un outil d’administration mobile pratique et adapté à mes besoins, me permettant de faire évoluer mes portfolios sans devoir intervenir directement dans le code du site web ou de l’application mobile."
-      ],
-      "technologies": [
-        "Flutter",
-        "Dart",
-        "Firebase",
-        "Firestore",
-        "API REST"
-      ],
-      "visible": true
-    },
-    {
-      "id": "application-mobile-portfolio-abdoul-dev",
-      "titre": "Application Mobile – Portfolio Abdoul dev",
-      "image": "img/projets/application-mobile-portfolio-abdoul-dev.webp",
-      "description": [
-        "**Abdoul dev** est une application mobile dédiée à la présentation de mon profil de développeur Full Stack Web & Mobile, de mes compétences techniques et de mes réalisations. Elle permet de découvrir mes projets web et mobiles, de consulter les technologies utilisées et d’en apprendre davantage sur mon parcours professionnel.",
-        "J’ai développé cette application pour rendre mon portfolio accessible directement depuis un smartphone, avec une interface adaptée à la navigation mobile. Elle permet de parcourir mes réalisations, de découvrir mes domaines d’expertise et d’accéder à mes coordonnées ainsi qu’à mes différents liens professionnels.",
-        "L’objectif est de proposer une présentation interactive et accessible de mon travail, afin de permettre aux recruteurs, aux entreprises et aux clients potentiels de découvrir facilement mon expérience et mes compétences."
-      ],
-      "technologies": [
-        "Flutter",
-        "Dart",
-        "Firebase",
-        "Firestore",
-        "API REST"
-      ],
-      "visible": true
-    },
-    {
-      "id": "application-mobile-zuvia",
-      "titre": "Application Mobile – Zuvia",
-      "image": "img/projets/application-mobile-zuvia.webp",
-      "description": [
-        "**Zuvia** est une application mobile de VTC disponible sur Android et iOS, conçue pour faciliter les déplacements au Maroc. Elle permet aux utilisateurs de commander un véhicule pour leurs trajets et de profiter d’une solution de mobilité pratique, accessible depuis leur smartphone.",
-        "J’ai participé au développement de l’application mobile afin de proposer une expérience simple et intuitive, de la demande de course à l’organisation du déplacement. L’objectif est de faciliter la mise en relation entre les passagers et les chauffeurs, tout en simplifiant les déplacements au quotidien à travers le Maroc."
-      ],
-      "technologies": [
-        "Flutter",
-        "Dart",
-        "Firebase",
-        "Firestore",
-        "API Rest"
-      ],
-      "visible": true
-    },
-    {
       "id": "tvlnah",
       "titre": "TVLNAH",
       "image": "img/projets/tvlnah.webp",
@@ -144,6 +91,23 @@
       "visible": true
     },
     {
+      "id": "application-mobile-zuvia",
+      "titre": "Application Mobile – Zuvia",
+      "image": "img/projets/application-mobile-zuvia.webp",
+      "description": [
+        "**Zuvia** est une application mobile de VTC disponible sur Android et iOS, conçue pour faciliter les déplacements au Maroc. Elle permet aux utilisateurs de commander un véhicule pour leurs trajets et de profiter d’une solution de mobilité pratique, accessible depuis leur smartphone.",
+        "J’ai participé au développement de l’application mobile afin de proposer une expérience simple et intuitive, de la demande de course à l’organisation du déplacement. L’objectif est de faciliter la mise en relation entre les passagers et les chauffeurs, tout en simplifiant les déplacements au quotidien à travers le Maroc."
+      ],
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Firebase",
+        "Firestore",
+        "API Rest"
+      ],
+      "visible": true
+    },
+    {
       "id": "domaine-carneros",
       "titre": "Domaine Carneros",
       "image": "img/projets/domaine-carneros.webp",
@@ -169,6 +133,24 @@
       "visible": true
     },
     {
+      "id": "application-mobile-portfolio-abdoul-dev",
+      "titre": "Application Mobile – Portfolio Abdoul dev",
+      "image": "img/projets/application-mobile-portfolio-abdoul-dev.webp",
+      "description": [
+        "**Abdoul dev** est une application mobile dédiée à la présentation de mon profil de développeur Full Stack Web & Mobile, de mes compétences techniques et de mes réalisations. Elle permet de découvrir mes projets web et mobiles, de consulter les technologies utilisées et d’en apprendre davantage sur mon parcours professionnel.",
+        "J’ai développé cette application pour rendre mon portfolio accessible directement depuis un smartphone, avec une interface adaptée à la navigation mobile. Elle permet de parcourir mes réalisations, de découvrir mes domaines d’expertise et d’accéder à mes coordonnées ainsi qu’à mes différents liens professionnels.",
+        "L’objectif est de proposer une présentation interactive et accessible de mon travail, afin de permettre aux recruteurs, aux entreprises et aux clients potentiels de découvrir facilement mon expérience et mes compétences."
+      ],
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Firebase",
+        "Firestore",
+        "API REST"
+      ],
+      "visible": true
+    },
+    {
       "id": "jardelya",
       "titre": "Jardelya",
       "image": "img/projets/jardelya.webp",
@@ -190,6 +172,24 @@
         "libelle": "Voir le site",
         "url": "https://jardelya.fr/"
       },
+      "visible": true
+    },
+    {
+      "id": "application-mobile-abdoul-admin",
+      "titre": "Application Mobile – Abdoul Admin",
+      "image": "img/projets/application-mobile-abdoul-admin.webp",
+      "description": [
+        "**Abdoul Admin** est une application mobile d’administration que j’ai développée pour gérer mon portfolio web et mon portfolio mobile depuis une interface centralisée. Elle me permet d’administrer mes réalisations et de mettre à jour les contenus présentés sur mes différentes plateformes.",
+        "J’ai développé cette application afin de simplifier la gestion de mon portfolio au quotidien. Elle me permet notamment d’ajouter et de modifier mes projets, d’actualiser leurs descriptions, de gérer les images associées et de mettre à jour les informations affichées sur mes versions web et mobile.",
+        "L’objectif est de disposer d’un outil d’administration mobile pratique et adapté à mes besoins, me permettant de faire évoluer mes portfolios sans devoir intervenir directement dans le code du site web ou de l’application mobile."
+      ],
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Firebase",
+        "Firestore",
+        "API REST"
+      ],
       "visible": true
     },
     {
