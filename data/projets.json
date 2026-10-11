@@ -2,6 +2,23 @@
   "version": 1,
   "projets": [
     {
+      "id": "application-mobile-zuvia",
+      "titre": "Application Mobile – Zuvia",
+      "image": "img/projets/application-mobile-zuvia.webp",
+      "description": [
+        "**Zuvia** est une application mobile de VTC disponible sur Android et iOS, conçue pour faciliter les déplacements au Maroc. Elle permet aux utilisateurs de commander un véhicule pour leurs trajets et de profiter d’une solution de mobilité pratique, accessible depuis leur smartphone.",
+        "J’ai participé au développement de l’application mobile afin de proposer une expérience simple et intuitive, de la demande de course à l’organisation du déplacement. L’objectif est de faciliter la mise en relation entre les passagers et les chauffeurs, tout en simplifiant les déplacements au quotidien à travers le Maroc."
+      ],
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Firebase",
+        "Firestore",
+        "API Rest"
+      ],
+      "visible": true
+    },
+    {
       "id": "tvlnah",
       "titre": "TVLNAH",
       "image": "img/projets/tvlnah.webp",
