@@ -7,7 +7,8 @@
       "image": "img/projets/e-webcode-site-web.webp",
       "description": [
         "e•Webcode accompagne les entreprises et les entrepreneurs dans la conception et le développement de solutions digitales sur mesure.",
-        "En ma qualité de consultant indépendant et développeur Full-Stack Web & Mobile, j’interviens sur la création de sites web, d’applications web et mobiles, d’API et de plateformes métier, de la conception à la mise en production. Mon objectif : proposer des solutions performantes, fiables, évolutives et adaptées aux besoins de chaque projet."
+        "En ma qualité de consultant indépendant et développeur Full-Stack Web & Mobile, j’interviens sur la création de sites web, d’applications web et mobiles, d’API et de plateformes métier, de la conception à la mise en production.",
+        "Mon objectif : proposer des solutions performantes, fiables, évolutives et adaptées aux besoins de chaque projet."
       ],
       "technologies": [
         "Next.js",
